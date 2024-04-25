@@ -1,0 +1,23 @@
+  body{
+    background-color: black;
+    color: #ffffff
+  }
+  div{
+    
+    align-items: center;
+    display: block;
+    text-align: center;
+    
+  }
+  #personajs{
+    display: block;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(175, 50, 50);
+    border-radius: 5%;
+    border: 3px solid #ffffff;
+    padding: .5%;
+    word-spacing: 5px;
+  }
+
+  
